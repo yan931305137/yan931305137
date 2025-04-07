@@ -49,9 +49,9 @@
 
 ## 统计信息
 
-![你的 GitHub 统计信息](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![你的 GitHub 统计信息](https://github-readme-stats.vercel.app/api?username=yan931305137&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-![你的 GitHub 语言统计信息](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&hide_title=true)
+![你的 GitHub 语言统计信息](https://github-readme-stats.vercel.app/api/top-langs/?username=yan931305137&layout=compact&hide_title=true)
 
 ## 贡献
 
