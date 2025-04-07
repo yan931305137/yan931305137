@@ -7,7 +7,7 @@ Hello! I'm Yan, a passionate developer with a love for coding and technology �
 ## 🛠 Tech Stack
 
 - **💻 Programming Languages**:
-  - ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
+  - ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 - **🗄 Databases**:
   - ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
